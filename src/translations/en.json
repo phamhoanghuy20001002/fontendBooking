@@ -1,0 +1,39 @@
+{
+    "homeHeader": {
+        "speciality": "Medical specialty",
+        "searchDoctor": "Find a doctor by specialty",
+        "health-facity": "Health facilities",
+        "select-room": "Choose hospital & clinic",
+        "doctor": "Doctor",
+        "select-doctor": "Choose a good doctor",
+        "fee": "Checkup package",
+        "check-healthy": "General health check",
+        "support": "Support",
+        "welcome": "welcome "
+    },
+    "menu": {
+        "admin": {
+            "manage-user": "Users",
+            "manage-doctor": "Doctor Manage ",
+            "manage-admin": "Admin Manage ",
+            "crud": "CRUD user",
+            "crud-redux": "CRUD redux",
+            "clinic": "Clinic",
+            "manage-clinic": "Clinic Manage",
+            "speciality": "Speciality",
+            "manage-speciality": "Speciality Manage",
+            "handbook": "Handbook",
+            "manage-handbook": "Handbook Manage"
+        },
+        "doctor": {
+            "manage-schedule": "Manage Doctor's schedule",
+            "manage-patient": "Manage patient"
+        }
+    },
+    "manage-user": {
+        "add": "Add a new user"
+    },
+    "manage-schedule": {
+        "title": "Manage Doctor's examination plan"
+    }
+}
